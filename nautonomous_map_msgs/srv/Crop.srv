@@ -1,0 +1,5 @@
+geometry_msgs/Pose2D[] route
+string name
+---
+string image_name
+string config_name

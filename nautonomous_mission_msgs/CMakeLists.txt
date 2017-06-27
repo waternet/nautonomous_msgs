@@ -7,7 +7,6 @@ add_message_files(
 	DIRECTORY msg
 	FILES
 	MissionStatus.msg
-	OperationAction.msg
 	OperationPlan.msg
 )
 
