@@ -1,4 +1,3 @@
-string image_name
 string config_name
 ---
 string status

@@ -9,7 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_service_files(
   FILES
-  Routing.srv
+  Route.srv
 )
 
 generate_messages(
