@@ -1,7 +1,7 @@
 #goal definition
 string mac
 string token
-nautonomous_mission_msgs/OperationPlan[] operationPlan
+nautonomous_mission_msgs/OperationPlan[] operations
 ---
 #result definition
 nautonomous_mission_msgs/MissionStatus result

@@ -9,8 +9,8 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_service_files(
   FILES
-  MapLoader.srv
-  CropMapPoints.srv
+  Load.srv
+  Crop.srv
 )
 
 generate_messages(
